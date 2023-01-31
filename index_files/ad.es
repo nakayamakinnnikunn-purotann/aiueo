@@ -1,0 +1,1 @@
+microadCompass.AdRequestor.callback({"spot":"2187af0c7d42fcfa01373958f3857f40","sequence":"2","impression_id":"8392101487283996548"})
